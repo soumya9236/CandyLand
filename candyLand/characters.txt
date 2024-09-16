@@ -1,0 +1,5 @@
+Toffee_Todd|200|20|Frosty Fizz,Toxic Taffy,Bubblegum Blast,Caramel Comet,Lucky Licorice,Ruby Rapture,Crimson Crystal,Toxic Taffy,Caramel Comet
+JellyBean_Jane|100|50|Bubblegum Blast,Lucky Licorice,Fearsome Fudge,Crimson Crystal,Lucky Licorice,Frosty Fizz,Sparkling Sapphire,Crimson Crystal,Venomous Vortex
+Gummy_Gilly|150|35|Frosty Fizz,Ruby Rapture,Crimson Crystal,Fearsome Fudge,Ruby Rapture,Venomous Vortex,Mystic Marshmallow,Toxic Taffy,Caramel Comet
+Lollypop_Lilly|135|45|Lucky Licorice,Ruby Rapture,Crimson Crystal,Venomous Vortex,Bubblegum Blast,Mystic Marshmallow,Sparkling Sapphire,Toxic Taffy,Caramel Comet
+
